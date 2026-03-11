@@ -22,6 +22,9 @@ Across these projects, my goal is to design applications that **transform comple
 
 This project aggregates large-scale Formula 1 datasets and provides tools to explore race performance, driver comparisons, and race dynamics.
 
+🌐 Live app
+[https://f1-data-analytics.vercel.app](https://f1-data-analytics.vercel.app)
+
 The platform is built around the open-source database:
 
 * [https://github.com/f1db/f1db](https://github.com/f1db/f1db)
